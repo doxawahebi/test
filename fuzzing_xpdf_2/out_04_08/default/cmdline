@@ -1,0 +1,3 @@
+./install_afl_fast/bin/pdftotext
+@@
+./pdf_tmp

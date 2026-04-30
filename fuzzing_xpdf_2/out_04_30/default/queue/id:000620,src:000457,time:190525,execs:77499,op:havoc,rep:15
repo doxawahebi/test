@@ -1,0 +1,76 @@
+%PDV-1.7
+
+1 0 obj  % entry point
+<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+  /Type /Pages
+  /MediaBox [ 0 0 200 200 ]
+  /Count 1
+  /Kids [ ]
+  /Count 1
+  /]
+>Ki
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /Resource• <<
+    /Fot <<
+      /F1 4 0 R 
+    >>
+  >>0  /Contents 5 0 R
+>>
+endobj
+
+4 0 obj
+<<
+  /Type /Font
+  >
+endobj
+
+2 0 obj
+<<
+  /Typ /Times-Roman
+>>
+endobj
+
+5 0 obj   page content
+<<
+  /Length 44
+>>
+stream
+¸T
+70 50 TD
+/Fn
+>>obj
+
+
+edobj
+
+5 0 objen1 12 Tf
+(Hello, world!) Tj
+ET
+endstream
+endobj
+
+xref
+0 6
+000000 65535 f 010 0 n 
+0000000079 00000 n ÿ3 00000 endobj
+
+4 0 obj
+<<
+  /Type0000380 00000 n 
+tuailer
+<<
+  /Size 6
+  /Root 1 0 R
+>>
+Ótartxref›492
+%%E

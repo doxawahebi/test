@@ -1,0 +1,6 @@
+# environment variables:
+AFL_CUSTOM_INFO_PROGRAM=./install_afl_fast/bin/pdftotext
+AFL_CUSTOM_INFO_PROGRAM_ARGV=@@ ./pdf_tmp
+AFL_CUSTOM_INFO_OUT=out_04_08/default
+# command line:
+'afl-fuzz' '-m' 'none' '-i' './pdf_examples' '-o' 'out_04_08' '-s' '123' './install_afl_fast/bin/pdftotext' '@@' './pdf_tmp'

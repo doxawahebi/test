@@ -1,0 +1,69 @@
+%PDF-1.7
+
+1 0 obj  % entry poinu
+<J
+  /Jype /Catalog
+ /Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+  /Type /Pages
+  /MediaBox [ 0 0 200 200 ]
+  /Count 1
+  /Kids [ 1 4 0 Runt 1
+  /Ki
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /Resources <<
+    /Font <<
+      /F1 4 0 R 
+    >>
+  >>
+  /Contents 5 0 Rs 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+  Fontendobj
+
+2 0 obj
+<<
+ 
+<<
+  /Lnt /Times-Roman
+>>
+s 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+ 
+<<
+  /Length 44
+>>
+stream
+BT
+70 50 TD
+/F1 Î2 Tf
+(Hello, world!) Tj
+ET
+endstream
+endobj
+
+xref
+0 6
+00000000079 00000 n 173 00000 n 
+0000000301 00000?n 
+0000000380 00000 n 
+trailer
+<<
+  /Size 6
+  /Root 17
+
+1 0 obj  % entry poi%E
